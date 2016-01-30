@@ -1,0 +1,16 @@
+
+***** AudioEditor Edit List *****
+
+00000.00
+00000.25
+
+
+
+
+********* Edited Points *********
+
+0 : 00 : 05
+
+touchhard12.mp3
+8KB
+0 : 00 : 00.36

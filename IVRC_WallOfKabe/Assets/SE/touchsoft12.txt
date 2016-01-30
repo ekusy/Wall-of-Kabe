@@ -1,0 +1,8 @@
+
+***** AudioEditor Edit List *****
+
+?rate
+1.20484
+?rate
+1.19108
+

@@ -1,0 +1,8 @@
+ZRNAssets
+Library
+Temp
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+/IVRC_WallOfKabe/Assets/Assets2/Model/*
